@@ -1,0 +1,35 @@
+@import "../index/index.wxss";
+
+
+.dynamics-wrap{
+    margin: 40rpx;
+}
+.dynamics-cell {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20rpx;
+}
+
+.dynamics-img {
+  margin-right: 0.5rem;
+  width: 5rem;
+  height: 3.5rem;
+}
+
+.dynamics-body {
+  flex: 1;
+  height: 3.5rem;
+  overflow: hidden;
+  text-overflow:ellipsis;
+  word-wrap: break-word;
+  
+}
+
+.dynamic-title{
+    font-size: 0.8rem;
+    color: #4c9ddf;
+}
+
+.dynamic-txt{
+    font-size: 0.5rem;
+}

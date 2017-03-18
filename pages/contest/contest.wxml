@@ -1,0 +1,117 @@
+<scroll-view scroll-y="true">
+
+  <!--轮播图-->
+  <view>
+    <image class="img-size" src="http://www.cxcycf.com/templates/main/images/cxcy.png"></image>
+  </view>
+
+  <!--正在举办的大赛-->
+  <view class="module">
+    <view class="top-guide">
+      <view class="guide-title">正在举办的大赛</view>
+
+      <!--<navigator url="" class="guide-more">更多 ></navigator>-->
+    </view>
+    <view class="inner-box">
+      <view class="column">
+        <view class="cell-single">
+          <navigator url="url">
+            <view class="">
+              <image src="http://upload.cxcycf.com/upload/201612/22/201612222219513401.jpg" class="img-size"></image>
+            </view>
+            <view class="cell-txt">航拍摄影大赛</view>
+          </navigator>
+        </view>
+      </view>
+      <view class="column">
+        <view class="cell">
+          <navigator url="url">
+            <view class="">
+              <image src="http://upload.cxcycf.com/upload/201601/07/201601071625553612.jpg"></image>
+            </view>
+            <view class="cell-txt">成都信息工程大学</view>
+          </navigator>
+        </view>
+        <view class="cell">
+          <navigator url="url">
+            <view class="">
+              <image src="http://upload.cxcycf.com/upload/201601/07/201601071625553612.jpg"></image>
+            </view>
+            <view class="cell-txt">成都信息工程大学</view>
+          </navigator>
+        </view>
+      </view>
+      <view class="column">
+        <view class="cell">
+          <navigator url="url">
+            <view class="img-responsive">
+              <image src="http://upload.cxcycf.com/upload/201601/07/201601071625553612.jpg"></image>
+            </view>
+            <view class="cell-txt">成都信息工程大学</view>
+          </navigator>
+        </view>
+        <view class="cell">
+          <navigator url="url">
+            <view class="img-responsive">
+              <image src="http://upload.cxcycf.com/upload/201601/07/201601071625553612.jpg"></image>
+            </view>
+            <view class="cell-txt">成都信息工程大学</view>
+          </navigator>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!--赛事动态:初步显示4条动态，下拉加载更多-->
+  <view class="module">
+    <view class="top-guide">
+      <view class="guide-title">赛事动态</view>
+    </view>
+    <view class="dynamics-wrap">
+      <view class="dynamics-cell">
+        <image src="http://upload.cxcycf.com/upload/201612/05/201612051716284253.JPG" class="dynamics-img"></image>
+        <view class="dynamics-body">
+          <view>
+            <navigator url="url" class="dynamic-title">第二届浙江省“互联网+”大学生创新创业大赛在杭州师范大学举行</navigator>
+          </view>
+          <view class="dynamic-txt">
+            2016年7月2-3日，“建行杯”第二届浙江省“互联网+”大学生创新创业大赛暨第二届中国“互联网”大学生创新创业大赛选拔赛在杭州师…
+          </view>
+        </view>
+      </view>
+      <view class="dynamics-cell">
+        <image src="http://upload.cxcycf.com/upload/201612/05/201612051716284253.JPG" class="dynamics-img"></image>
+        <view class="dynamics-body">
+          <view>
+            <navigator url="url" class="dynamic-title">第二届浙江省“互联网+”大学生创新创业大赛在杭州师范大学举行</navigator>
+          </view>
+          <view class="dynamic-txt">
+            2016年7月2-3日，“建行杯”第二届浙江省“互联网+”大学生创新创业大赛暨第二届中国“互联网”大学生创新创业大赛选拔赛在杭州师…
+          </view>
+        </view>
+      </view>
+      <view class="dynamics-cell">
+        <image src="http://upload.cxcycf.com/upload/201612/05/201612051716284253.JPG" class="dynamics-img"></image>
+        <view class="dynamics-body">
+          <view>
+            <navigator url="url" class="dynamic-title">第二届浙江省“互联网+”大学生创新创业大赛在杭州师范大学举行</navigator>
+          </view>
+          <view class="dynamic-txt">
+            2016年7月2-3日，“建行杯”第二届浙江省“互联网+”大学生创新创业大赛暨第二届中国“互联网”大学生创新创业大赛选拔赛在杭州师…
+          </view>
+        </view>
+      </view>
+      <view class="dynamics-cell">
+        <image src="http://upload.cxcycf.com/upload/201612/05/201612051716284253.JPG" class="dynamics-img"></image>
+        <view class="dynamics-body">
+          <view>
+            <navigator url="url" class="dynamic-title">第二届浙江省“互联网+”大学生创新创业大赛在杭州师范大学举行</navigator>
+          </view>
+          <view class="dynamic-txt">
+            2016年7月2-3日，“建行杯”第二届浙江省“互联网+”大学生创新创业大赛暨第二届中国“互联网”大学生创新创业大赛选拔赛在杭州师…
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</scroll-view>

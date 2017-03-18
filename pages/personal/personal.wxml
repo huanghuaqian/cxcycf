@@ -1,0 +1,11 @@
+
+<!--personal.wxml-->
+<view>
+
+  <view>
+    <navigator url="url">
+      <image src="http://www.cxcycf.com/templates/main/images/user-avatar.png" class="user-img"></image>
+      <view class="user-name">用户名</view>
+    </navigator>
+  </view>
+</view>

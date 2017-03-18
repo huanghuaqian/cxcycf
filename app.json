@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/contest/contest",
+    "pages/education/education",
+    "pages/personal/personal"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarTextStyle":"white",
+    "navigationBarBackgroundColor": "#f9f9f9"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#3cc51f",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath":"images/icon/首页.png",
+      "selectedIconPath":"images/icon/首页.png"
+    },{
+      "pagePath": "pages/contest/contest",
+      "text": "大赛",
+      "iconPath":"images/icon/创业大赛.png",
+      "selectedIconPath":"images/icon/创业大赛.png"
+    },
+    {
+      "pagePath": "pages/education/education",
+      "text": "课堂",
+      "iconPath":"images/icon/创业课堂.png",
+      "selectedIconPath":"images/icon/创业课堂.png"
+    },
+    {
+      "pagePath": "pages/personal/personal",
+      "text": "我的",
+      "iconPath":"images/icon/个人中心.png",
+      "selectedIconPath":"images/icon/个人中心.png"
+    }]
+  },
+  "networkTimeout": {
+    "request": 20000,
+    "connectSocket": 20000,
+    "uploadFile": 20000,
+    "downloadFile": 20000
+  },
+  "debug":true
+}
