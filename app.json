@@ -12,29 +12,33 @@
   },
   "tabBar": {
     "color": "#dddddd",
-    "selectedColor": "#3cc51f",
+    "selectedColor": "#18a3a7",
     "list": [{
       "pagePath": "pages/index/index",
       "text": "首页",
       "iconPath":"images/icon/首页.png",
-      "selectedIconPath":"images/icon/首页.png"
+      "selectedIconPath":"images/icon/首页_select.png",
+      "selectedColor": "#18a3a7"
     },{
       "pagePath": "pages/contest/contest",
       "text": "大赛",
       "iconPath":"images/icon/创业大赛.png",
-      "selectedIconPath":"images/icon/创业大赛.png"
+      "selectedIconPath":"images/icon/创业大赛_select.png",
+      "selectedColor": "#18a3a7"
     },
     {
       "pagePath": "pages/education/education",
       "text": "课堂",
       "iconPath":"images/icon/创业课堂.png",
-      "selectedIconPath":"images/icon/创业课堂.png"
+      "selectedIconPath":"images/icon/创业课堂_select.png",
+      "selectedColor": "#18a3a7"
     },
     {
       "pagePath": "pages/personal/personal",
       "text": "我的",
       "iconPath":"images/icon/个人中心.png",
-      "selectedIconPath":"images/icon/个人中心.png"
+      "selectedIconPath":"images/icon/个人中心_select.png",
+      "selectedColor": "#18a3a7"
     }]
   },
   "networkTimeout": {
