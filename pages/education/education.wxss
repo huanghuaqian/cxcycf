@@ -74,6 +74,7 @@
 .course-module .course-info, .course-learn {
   font-size: 0.6rem;
   line-height: 1.0rem;
+  color: #666;
 }
 
 .course-module .course-info {
