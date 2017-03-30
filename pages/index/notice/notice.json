@@ -1,0 +1,6 @@
+{
+    "backgroundTextStyle":"light",
+    "navigationBarTitleText": "通知公告",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true
+  }
