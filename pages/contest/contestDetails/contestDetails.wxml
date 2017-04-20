@@ -221,5 +221,109 @@
     </view>
 
     <!--end 获奖项目展示-->
+
+    <!--大赛流程-->
+    <view class="contain no-bottom">
+      <view class="decoration"></view>
+      <view class="section-title">
+        <view class="primary">大赛流程</view>
+        <view class="secondary">Contest Process</view>
+        <view>
+          <image src="/images/contest-icon/liucheng.png" />
+        </view>
+      </view>
+      <view class="item-wrap overview">
+        <view class="item">
+          <view>
+           答题宣讲会
+          </view>
+          <view>
+            2017-07-01
+          </view>
+        </view>
+        <view class="item">
+          <view>
+            创意组 本科组 研博组准备
+          </view>
+          <view>
+            2016-07-01
+          </view>
+        </view>
+        <view class="item">
+          <view>
+            创意组答辩
+          </view>
+          <view>
+            2016-07-11
+          </view>
+        </view>
+        <view class="item">
+          <view>
+            本科组答辩
+          </view>
+          <view>
+            2016-10-01
+          </view>
+        </view>
+        <view class="item">
+          <view>
+            研博组答辩
+          </view>
+          <view>
+            2016-12-01
+          </view>
+        </view>
+        <view class="item">
+          <view>
+            决赛及颁奖仪式
+          </view>
+          <view>
+            2016-12-29
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <!--end 大赛流程-->
+
+    <!--往届大赛回顾-->
+    <view class="contain no-bottom">
+      <view class="decoration"></view>
+      <view class="section-title">
+        <view class="primary">往届大赛回顾</view>
+        <view class="secondary">Past Review</view>
+        <view>
+          <image src="/images/contest-icon/past.png" />
+        </view>
+      </view>
+      <view class="module">
+        <view class="inner-box">
+          <view class="column">
+            <view class="cell">
+              <navigator url="url">
+                <view class="">
+                  <image src="http://upload.cxcycf.com/upload/201610/19/201610191700044779.jpg"></image>
+                </view>
+                <view class="cell-txt">原生生态农产品摄影赛
+                  <text>希望各位参赛选手按照比赛规则参赛！</text>
+                </view>
+              </navigator>
+            </view>
+            <view class="cell">
+              <navigator url="url">
+                <view class="">
+                  <image src="http://upload.cxcycf.com/upload/201601/07/201601071625553612.jpg"></image>
+                </view>
+                <view class="cell-txt">2016年“第一届”航拍摄影大赛
+                  <text>希望各位参赛者积极配合</text>
+                </view>
+              </navigator>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <!--end 往届大赛回顾-->
   </view>
 </view>
